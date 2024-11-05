@@ -1,4 +1,4 @@
-namespace EarClip;
+namespace EarClip Error;
 
 public class FileWriter : GeomWriter
 {
