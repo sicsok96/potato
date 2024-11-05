@@ -6,7 +6,7 @@ public class Coordinate  //Akkor kell a public ha másik résznél is használni
     /// Kóddokumentáció létrehozása
     /// </summary>
     public double X {get; set;}  //Mindig nagy betű a változó
-    public double Y {get; set;}  //Kettéválasztjuk egy tag értékadását 
+    public double W {get; set;}  //Kettéválasztjuk egy tag értékadását 
 
     /// <summary>
     /// Konstruktor accepting a coordinate values
